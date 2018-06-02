@@ -6,4 +6,12 @@ Here are code examples for the Hitchhiker's Guide to Functional Programming talk
 
 ## Code
 
-Code is organized as a series of refactoring steps from the first imperative loop version ([src/test/org/shishkin/fp/A_Loop.java](src/test/org/shishkin/fp/A_Loop.java)) into a fully FP-style version utilizing Java 8 Stream API ([src/test/org/shishkin/fp/G_Streams.java](src/test/org/shishkin/fp/G_Streams.java)).
+Code is organized as a series of refactoring steps:
+
+* [src/test/org/shishkin/fp/A_Loop.java](blob/master/src/test/org/shishkin/fp/A_Loop.java)
+* [src/test/org/shishkin/fp/B_Decomplect.java](blob/master/src/test/org/shishkin/fp/B_Decomplect.java)
+* [src/test/org/shishkin/fp/C_Recursion.java](blob/master/src/test/org/shishkin/fp/C_Recursion.java)
+* [src/test/org/shishkin/fp/D_HigherOrder.java](blob/master/src/test/org/shishkin/fp/D_HigherOrder.java)
+* [src/test/org/shishkin/fp/E_Fold.java](blob/master/src/test/org/shishkin/fp/E_Fold.java)
+* [src/test/org/shishkin/fp/F_Combinators.java](blob/master/src/test/org/shishkin/fp/F_Combinators.java)
+* [src/test/org/shishkin/fp/G_Streams.java](blob/master/src/test/org/shishkin/fp/G_Streams.java)
